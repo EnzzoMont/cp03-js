@@ -1,4 +1,4 @@
-# cp03-js
+# Checkpoint-3-js
 Ultimo checkpoint de WebDev
 
 Nome: Enzzo Monteiro Barros Silva
